@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="geo_dark">#1C1C1E</color>
+    <color name="geo_orange">#FF6D00</color>
+    <color name="geo_orange_light">#FFAB40</color>
+    <color name="geo_white">#F5F5F5</color>
+    <color name="geo_card">#2C2C2E</color>
+    <color name="geo_grey">#9E9E9E</color>
+    <color name="geo_background">#121212</color>
+</resources>

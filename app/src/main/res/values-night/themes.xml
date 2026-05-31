@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Geologger" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/geo_orange</item>
+        <item name="colorPrimaryVariant">@color/geo_orange_light</item>
+        <item name="colorOnPrimary">@color/geo_white</item>
+        <item name="android:windowBackground">@color/geo_background</item>
+    </style>
+</resources>

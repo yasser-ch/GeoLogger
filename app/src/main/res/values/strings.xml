@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Geologger</string>
+    <string name="provider_enabled">Fournisseur %s activé</string>
+    <string name="provider_disabled">Fournisseur %s désactivé</string>
+    <string name="provider_new_status">Fournisseur %1$s — nouveau statut : %2$s</string>
+    <string name="new_location">Latitude = %1$s, Longitude = %2$s, Altitude = %3$s, Précision = %4$s m</string>
+    <string name="btn_view_map">Voir la carte</string>
+    <string name="waiting_location">En attente de signal GPS...</string>
+    <string name="permission_denied">Permission de localisation refusée</string>
+</resources>
